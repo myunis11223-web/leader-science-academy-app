@@ -20,11 +20,12 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Setup Android SDK
+            - name: Setup Android SDK
         uses: android-actions/setup-android@v3
-
-      - name: Install Android SDK
-        run: sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+        with:
+          packages: 'platform-tools platforms;android-34 build-tools;34.0.0'
+          cmdline-tools-version: '11076708'
+          accept-android-sdk-licenses: true
 
       - name: Build APK
         run: chmod +x gradlew && ./gradlew assembleDebug
