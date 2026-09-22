@@ -1,0 +1,8 @@
+com.leaderscienceacademy.kotlamughlan.app-pngs-0 /workspaces/leader-science-academy-app/app/build/generated/res/pngs/debug
+com.leaderscienceacademy.kotlamughlan.app-updated_navigation_xml-1 /workspaces/leader-science-academy-app/app/build/generated/updated_navigation_xml/debug
+com.leaderscienceacademy.kotlamughlan.app-packageDebugResources-2 /workspaces/leader-science-academy-app/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.leaderscienceacademy.kotlamughlan.app-packageDebugResources-3 /workspaces/leader-science-academy-app/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.leaderscienceacademy.kotlamughlan.app-debug-4 /workspaces/leader-science-academy-app/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.leaderscienceacademy.kotlamughlan.app-debug-5 /workspaces/leader-science-academy-app/app/src/debug/res
+com.leaderscienceacademy.kotlamughlan.app-main-6 /workspaces/leader-science-academy-app/app/src/main/res
+gradleHome-0 /home/codespace/.gradle
